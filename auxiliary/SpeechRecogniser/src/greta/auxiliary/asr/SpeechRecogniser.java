@@ -6,8 +6,6 @@ package greta.auxiliary.asr;
  * and open the template in the editor.
  */
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 
 import org.glassfish.grizzly.http.server.CLStaticHttpHandler;
@@ -19,7 +17,6 @@ import org.glassfish.grizzly.websockets.*;
 import javax.net.ssl.KeyManagerFactory;
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.TrustManagerFactory;
-import javax.swing.JOptionPane;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -27,8 +24,6 @@ import java.security.*;
 import java.security.cert.CertificateException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
