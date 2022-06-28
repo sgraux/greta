@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/49474878/132516042-2bdfc9a5-8414-4589-
 Welcome to the public repository of the Greta project.
 Greta is a virtual character engine that allows generating socio-emotional behaviors in order to build natural interactional scenario with human users.
 
-Greta is a Java modular software designed to run on Java 8 only and mainly on Windows, it is not ready for Java 9 yet.
+Greta is a Java modular software designed to run on Java 8 and working on Windows, Linux and OSX.
 
 Most parts of Greta are licensed under the GNU LGPL v3 (the master branch of the GitHub repository).
 
